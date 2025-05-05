@@ -1,0 +1,20 @@
+[project]
+name = "blogwritermcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "exa-py>=1.12.1",
+    "fastembed>=0.6.1",
+    "gradio>=5.29.0",
+    "langchain-google-genai>=2.1.4",
+    "langchain-groq>=0.3.2",
+    "loguru>=0.7.3",
+    "mcp-use>=1.2.8",
+    "mcp[cli]>=1.6.0",
+    "nest-asyncio>=1.6.0",
+    "requests>=2.32.3",
+    "streamlit>=1.45.0",
+    "wikipedia>=1.4.0",
+]

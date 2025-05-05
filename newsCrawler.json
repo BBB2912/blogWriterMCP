@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "Web Tools MCP": {
+      "command": "C:/Users/MAHIREDDY/.local/bin/uv",
+      "args": [
+        "--directory",
+        "D:\\cdrive\\2025Internships\\Everyday_series\\tasks\\blogWriterMCP",
+        "run",
+        "mcpServer.py" 
+      ]
+    }
+    }
+  }
